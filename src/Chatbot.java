@@ -1,4 +1,4 @@
-public class ChatBot{
+public class ChatBot {
 
     // instance variables
     private String name;

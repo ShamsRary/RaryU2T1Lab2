@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f4d1a17-232c-42df-ad84-2e9a9be19121" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chatbot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectangleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunnerClass.java" afterDir="false" />
+    <list default="true" id="0f4d1a17-232c-42df-ad84-2e9a9be19121" name="Changes" comment="lll">
+      <change afterPath="$PROJECT_DIR$/src/ChatbotRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Chatbot.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664551379794</updated>
     </task>
+    <task id="LOCAL-00001" summary="lll">
+      <created>1664554645825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664554645825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lll" />
+    <option name="LAST_COMMIT_MESSAGE" value="lll" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
